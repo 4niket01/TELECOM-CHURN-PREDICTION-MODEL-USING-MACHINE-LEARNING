@@ -1,0 +1,2 @@
+# TELECOM-CHURN-PREDICTION-MODEL-USING-MACHINE-LEARNING
+Churn in telecom means when a customer stops using a company’s services and moves to another provider. For telecom companies, predicting churn is very important because:  It costs more to gain a new customer than to retain an existing one.  Predicting churn early helps companies offer discounts, better plans, or customer support to retain users.
